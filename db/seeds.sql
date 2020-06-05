@@ -24,5 +24,6 @@ VALUES
 ('frank', 'ocean', 3, 1),
 ('baby', 'driver', 4, 2),
 ('donald', 'glover', 4, 2),
+('andrew', 'jackson', 4, 2),
 ('paul', 'nessle', 5, 2);
 
