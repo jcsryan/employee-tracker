@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS Role;
 DROP TABLE IF EXISTS Employee;
 
 
-CREATE TABLE department (
+CREATE TABLE departments (
     id INTEGER(11) AUTO_INCREMENT NOT NULL,
     department VARCHAR(30) NOT NULL,
     PRIMARY KEY (id)
